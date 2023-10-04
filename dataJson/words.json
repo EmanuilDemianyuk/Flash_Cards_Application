@@ -1,0 +1,147 @@
+[
+    {
+      "en": "Tool",
+      "transcription": "[tyl]",
+      "ua": "Інструмент"
+    },
+    {
+      "en": "Logic",
+      "transcription": "[ˈlɒdʒɪk]",
+      "ua": "Логіка"
+    },
+    {
+      "en": "Development",
+      "transcription": "[dɪˈvɛləpmənt]",
+      "ua": "Розробка"
+    },
+    {
+      "en": "Implementation",
+      "transcription": "[ˌɪmplɪmɛnˈteɪʃən]",
+      "ua": "Реалізація"
+    },
+    {
+      "en": "Interface",
+      "transcription": "[ˈɪntərfeɪs]",
+      "ua": "Інтерфейс"
+    },
+    {
+      "en": "Module",
+      "transcription": "[ˈmɒdjuːl]",
+      "ua": "Модуль"
+    },
+    {
+      "en": "Parameter",
+      "transcription": "[pəˈræmɪtər]",
+      "ua": "Параметр"
+    },
+    {
+      "en": "Attribute",
+      "transcription": "[ˈætrɪbjuːt]",
+      "ua": "Атрибут"
+    },
+    {
+      "en": "Element",
+      "transcription": "[ˈɛlɪmənt]",
+      "ua": "Елемент"
+    },
+    {
+      "en": "Request",
+      "transcription": "[rɪˈkwɛst]",
+      "ua": "Запит"
+    },
+    {
+      "en": "Validation",
+      "transcription": "[ˌvælɪˈdeɪʃən]",
+      "ua": "Валідація"
+    },
+    {
+      "en": "Application",
+      "transcription": "[ˌæplɪˈkeɪʃən]",
+      "ua": "Застосування"
+    },
+    {
+      "en": "Update",
+      "transcription": "[ʌpˈdeɪt]",
+      "ua": "Оновлення"
+    },
+    {
+      "en": "Control",
+      "transcription": "[kənˈtroʊl]",
+      "ua": "Контроль"
+    },
+    {
+      "en": "Active",
+      "transcription": "[ˈæktɪv]",
+      "ua": "Активний"
+    },
+    {
+      "en": "Security",
+      "transcription": "[sɪˈkjʊərɪti]",
+      "ua": "Безпека"
+    },
+    {
+      "en": "Usage",
+      "transcription": "[ˈjuːsɪdʒ]",
+      "ua": "Використання"
+    },
+    {
+      "en": "Access",
+      "transcription": "[ˈæksɛs]",
+      "ua": "Доступ"
+    },
+    {
+      "en": "Efficiency",
+      "transcription": "[ɪˈfɪʃənsi]",
+      "ua": "Ефективність"
+    },
+    {
+      "en": "Configuration",
+      "transcription": "[kənˌfɪɡjʊˈreɪʃən]",
+      "ua": "Конфігурація"
+    },
+    {
+      "en": "Scalability",
+      "transcription": "[skeɪləˈbɪlɪti]",
+      "ua": "Масштабованість"
+    },
+    {
+      "en": "Framework",
+      "transcription": "[ˈfreɪmwɜːrk]",
+      "ua": "Каркас"
+    },
+    {
+      "en": "Debugging",
+      "transcription": "[dɪˈbʌɡɪŋ]",
+      "ua": "Відлагодження"
+    },
+    {
+      "en": "Performance",
+      "transcription": "[pərˈfɔːrməns]",
+      "ua": "Продуктивність"
+    },
+    {
+      "en": "Component",
+      "transcription": "[kəmˈpoʊnənt]",
+      "ua": "Компонент"
+    },
+    {
+      "en": "Exception",
+      "transcription": "[ɪkˈsɛpʃən]",
+      "ua": "Виключення"
+    },
+    {
+      "en": "Iteration",
+      "transcription": "[ˌɪtəˈreɪʃən]",
+      "ua": "Ітерація"
+    },
+    {
+      "en": "Testing",
+      "transcription": "[ˈtɛstɪŋ]",
+      "ua": "Тестування"
+    },
+    {
+      "en": "Error",
+      "transcription": "[ˈɛrər]",
+      "ua": "Помилка"
+    }
+]
